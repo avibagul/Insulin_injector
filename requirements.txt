@@ -51,7 +51,7 @@ nest-asyncio==1.5.4
 notebook==6.4.8
 numpy
 packaging==21.3
-pandas==1.4.0
+pandas
 pandocfilters==1.5.0
 parso==0.8.3
 pathspec==0.9.0
@@ -78,7 +78,7 @@ pywinpty==2.0.1
 pyzmq==22.3.0
 requests==2.27.1
 scipy==1.7.3
-seaborn==0.11.2
+seaborn
 Send2Trash==1.8.0
 six==1.16.0
 smmap==5.0.0

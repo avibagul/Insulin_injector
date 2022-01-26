@@ -1,10 +1,7 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+#import numpy as np
 from statsmodels.tsa.statespace.sarimax import SARIMAX
-from sklearn.metrics import mean_squared_error
 from statsmodels.tools.eval_measures import rmse
 from PIL import Image
 import os

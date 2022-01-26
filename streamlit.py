@@ -6,6 +6,7 @@ from statsmodels.tools.eval_measures import rmse
 from PIL import Image
 import os
 
+#comment changes in req
 def train_ARIMA(df, t, p):
     model = SARIMAX(df[:t]['sugar'], 
                         order = (0, 0, 1), 
